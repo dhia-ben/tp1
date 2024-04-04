@@ -1,0 +1,6 @@
+package LineCoverageTest;
+
+class FuzzBuzz {
+
+
+}
